@@ -1,4 +1,5 @@
 # Portfolio Frontend Developer
-HTML
-CSS
+HtML 5
+CSS 3
 JQuery
+
